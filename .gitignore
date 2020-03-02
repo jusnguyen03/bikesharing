@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+201908-citibike-tripdata.csv
+201908-citibike-tripdata.hyper
+Bikesharing.hyper
+
 # Log file
 *.log
 
